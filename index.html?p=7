@@ -1,0 +1,156 @@
+ <!doctype html>
+<!--[if !IE]>
+	<html class="no-js non-ie" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>
+	<html class="no-js ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>
+	<html class="no-js ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>
+	<html class="no-js ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="cdn-cgi/apps/head/16MsXKOVRE2Rmhyne1iYjlGkuU0.js"></script><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.supportwilliam.com/xmlrpc.php" />
+<title>Photos &#8211; Support William</title>
+<link rel='dns-prefetch' href='index.html' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Support William &raquo; Feed" href="en/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Support William &raquo; Comments Feed" href="en/comments/feed/index.html" />
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.supportwilliam.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='responsive-style-css' href='wp-content/themes/responsive/core/css/style.css?ver=3.12' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-media-queries-css' href='wp-content/themes/responsive/core/css/responsive.css?ver=3.12' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-style-css' href='wp-content/themes/responsive/core/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript" src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript" src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript" src='wp-content/themes/responsive/core/js/responsive-modernizr.min.js?ver=2.6.1'></script>
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.supportwilliam.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="index.html?p=7" />
+<link rel='shortlink' href='index.html?p=7' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=http:%252F%252Fwww.supportwilliam.com%252Fen%252Fphotos%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=http:%252F%252Fwww.supportwilliam.com%252Fen%252Fphotos%252F&amp;format=xml" />
+<link rel="alternate" href="index.html?p=7" hreflang="en" />
+<link rel="alternate" href="index.html?p=95" hreflang="zh-CN" />
+<link rel="alternate" href="index.html?p=97" hreflang="zh-HK" />
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript">
+		jQuery(document).ready(function(){
+		var copyright_text = "";
+		var cyberchimps_link = "";
+		var siteurl = "http://www.supportwilliam.com"; 
+		if(copyright_text == "")
+		{
+			jQuery(".copyright #copyright_link").text(" "+"Default copyright text");
+		}
+		else{ 
+			jQuery(".copyright #copyright_link").text(" "+copyright_text);
+		}
+		jQuery(".copyright #copyright_link").attr('href',siteurl);
+		if(cyberchimps_link == 1)
+		{
+			jQuery(".powered").css("display","block");
+		}
+		else{
+			jQuery(".powered").css("display","none");
+		}
+		});
+	</script>
+
+
+</head>
+<body class="page-template page-template-full-width-page page-template-full-width-page-php page page-id-7 default-layout">
+<div id="container" class="hfeed">
+<div class="skip-container cf">
+<a class="skip-link screen-reader-text focusable" href="index.html?p=7#content">&darr; Skip to Main Content</a>
+</div>
+<div id="header_section">
+<div id="header" role="banner">
+<ul id="menu-top-menu" class="top-menu"><li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="cdn-cgi/l/email-protection#ddbfb2b3b8b0bcafafb2aabbb2afaab4b1b1b4bcb09dbab0bcb4b1f3beb2b0">Contact Us</a></li>
+<li id="menu-item-189-cn" class="lang-item lang-item-9 lang-item-cn menu-item menu-item-type-custom menu-item-object-custom menu-item-189-cn"><a href="index.html?p=95" hreflang="zh-CN" lang="zh-CN">简体</a></li>
+<li id="menu-item-189-hk" class="lang-item lang-item-10 lang-item-hk menu-item menu-item-type-custom menu-item-object-custom menu-item-189-hk"><a href="index.html?p=97" hreflang="zh-HK" lang="zh-HK">繁體</a></li>
+</ul>
+<div id="content-outer">
+<div id="logo">
+<a href="index.html"><img src="wp-content/uploads/2013/02/cropped-Logo.png" width="557" height="100" alt="Support William" /></a>
+</div>
+</div>
+<div class="main-nav"><ul id="menu-main-menu" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="index.html?p=15">William&#8217;s Story</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="index.html?p=19">A Message From William</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-45"><a href="index.html?p=7">Photos</a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="index.html?p=170">Press</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50"><a href="index.html?p=24">How Can We Help?</a>
+<ul class="sub-menu">
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="index.html?p=26">What Is A Bone Marrow Transplant?</a></li>
+</ul>
+</li>
+<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a target="_blank" href="https://www.facebook.com/supportwilliam">Facebook</a></li>
+</ul></div>
+</div>
+</div>
+<div id="wrapper" class="clearfix">
+<div id="content-outer">
+<div id="content-full" class="grid col-940">
+<div id="post-7" class="post-7 page type-page status-publish hentry">
+<h1 class="entry-title post-title">Photos</h1>
+<div class="post-entry">
+<p><object width="800" height="533" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://picasaweb.google.com/s/c/bin/slideshow.swf" /><param name="flashvars" value="host=picasaweb.google.com&amp;captions=1&amp;noautoplay=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F116496789423041407327%2Falbumid%2F5848650207334333345%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCNWy9-_Klv73jQE%26hl%3Den_US" /><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer" /><embed width="800" height="533" type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" flashvars="host=picasaweb.google.com&amp;captions=1&amp;noautoplay=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F116496789423041407327%2Falbumid%2F5848650207334333345%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCNWy9-_Klv73jQE%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></p>
+</div>
+
+<div class="post-edit"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" class="clearfix" role="contentinfo">
+<div id="footer-wrapper">
+
+<div id="content-outer">
+</div>
+<div id="content-outer">
+<div class="grid col-940">
+<div class="grid col-540">
+</div>
+<div class="grid col-380 fit">
+<ul class="social-icons"><li class="facebook-icon"><a href="https://www.facebook.com/supportwilliam"><img src="wp-content/themes/responsive/core/icons/facebook-icon.png" width="24" height="24" alt="Facebook"></a></li></ul> </div>
+</div>
+<div class="grid col-300 copyright">
+&copy; 2018<a id="copyright_link" href="index.html" title="Support William">
+Support William </a>
+</div>
+<div class="grid col-300 scroll-top"></div>
+<div class="grid col-300 fit powered">
+<a href="http://cyberchimps.com/responsive-theme/" title="Responsive Theme" rel="noindex, nofollow">Responsive Theme</a>
+powered by <a href="http://wordpress.org/" title="WordPress">
+WordPress</a>
+</div>
+</div>
+</div>
+</div>
+<div id="scroll" title="Scroll to Top" style="display: block;">Top<span></span></div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="03169c22c7a7b0a67d3d4e8b-text/javascript" src='wp-content/themes/responsive/core/js/responsive-scripts.min.js?ver=1.2.6'></script>
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript" src='wp-content/themes/responsive/core/js/jquery.placeholder.min.js?ver=2.0.7'></script>
+<script type="03169c22c7a7b0a67d3d4e8b-text/javascript" src='wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="03169c22c7a7b0a67d3d4e8b-" defer=""></script></body>
+</html>
